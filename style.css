@@ -1,0 +1,71 @@
+.food-munch-logo {
+    width: 65px;
+    height: 60px;
+    border-radius: 55px;
+}
+
+.custom-button {
+    color: white;
+    background-color: rgb(25, 126, 165);
+    width: 130px;
+    height: 35px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.about-us-image {
+    width: 400px;
+    height: 400x;
+}
+
+.service-card-bg {
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    border-radius: 10px;
+}
+
+.service-card-bg:hover {
+    background-color: rgb(39, 166, 202);
+    color: #ffffff;
+}
+
+.service-card-icons {
+    font-size: 60px;
+    color:rgb(39, 166, 202);
+    margin-left: 70px;
+    padding: 10px;
+}
+
+.service-card-bg:hover > i {
+    color: #ffffff;
+}
+
+.service-card-image {
+    width: 100px;
+}
+
+.menu-card-image {
+    width: 80px;
+    height: 100px;
+    margin: 10px;
+}
+
+.booking-image {
+    width: 600px;
+    height: 600px;
+}
+
+.team-card-image {
+    width: 180px;
+    height: 250px;
+    border-radius: 250px;
+}
+
+.arrow-styling {
+    color: #ffffff;
+    
+}
